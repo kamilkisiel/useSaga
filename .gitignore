@@ -1,0 +1,5 @@
+### Component generated files ###
+node_modules/
+
+# editors
+.idea
